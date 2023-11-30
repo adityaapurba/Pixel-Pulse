@@ -1,0 +1,11 @@
+/* my styles */
+.hoverable:hover {
+    transform: scale(1.03);
+    box-shadow: 0.4rem 0.4rem 1rem rgba(209, 206, 206, 0.15) !important;
+}
+
+.hover{
+    box-shadow: 0.4rem 0.4rem 1rem rgb(109, 106, 106) !important;
+}
+
+
